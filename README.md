@@ -29,6 +29,9 @@ GoogleCalendarTests is a project for automating the testing of the Google Calend
     appium
     ```
 
+### Prerequisites
+Before running the tests, ensure you are logged into your Google Calendar account on the mobile device or emulator you are using for testing.
+
 ## Usage
 To run the tests, execute the following command:
 ```bash
